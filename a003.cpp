@@ -8,11 +8,11 @@ int main()
     while(cin>>M>>D){
     S=(M*2+D)%3;
     if(S=0)
-    cout<<"´¶³q"<<endl;
+    cout<<"Â´Â¶Â³q"<<endl;
     if(S=1)
-    cout<<"¦N"<<endl;
+    cout<<"Â¦N"<<endl;
     if(S=2)
-    cout<<"¤j¦N"<<endl;
+    cout<<"Â¤jÂ¦N"<<endl;
     }
     return 0;
 }
