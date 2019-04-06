@@ -18,7 +18,7 @@ cout<<"Two different roots x1="<<x1<<" , x2="<<x2<<endl;
 }
 
 else if(D==0){
-x1=-b/2*a;
+x1=-b/(2*a);
 cout<<"Two same roots x="<<x1<<endl;
 }
 
